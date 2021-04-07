@@ -1,7 +1,3 @@
-CSE 535 - Final Project - Human Activity Recognition - Group 21
-
-Team Members - Aditya Sharma, Nida Zeeshan, Apeksha Rajkumari, Monica Selvam.
-
 The main zip contains 2 folders -
 
 1. Human_Activity_Recognition - This folder is an Android Studio Project of the entire CSE 535 Project. You can open Android studio and load this folder to view all the code and run the code too.
@@ -19,5 +15,3 @@ The .pb file can be found in the "MC_Project" folder on your google drive. Copy 
 The APK's for the Android Studio Projects are under the path <Project_Name>/app/release -  app_release.apk
 
 The app_release.apk found inside the Zip file is for the Human_Activity_Recognition as that is the main Project.
-
-CSE535_Project_Group21.pdf is the report for the project.
